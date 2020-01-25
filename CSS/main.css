@@ -1,0 +1,15 @@
+.forum-col{
+    min-width: 16em;
+}
+
+.created-col, .last-post-col{
+    min-width: 12em;
+}
+
+.post-author-col{
+    min-width: 12em;
+}
+
+.post-post-col{
+    min-width: 20em;
+}
